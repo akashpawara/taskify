@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import taskForm from '../components/TaskForm.vue';
-import { api } from '../helpers/helpers';
+import taskForm from '../components/taskForm.vue';
+import { api } from '../helpers/helper';
 export default {
   name: 'new-task',
   components: {

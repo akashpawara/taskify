@@ -12,7 +12,7 @@
     "url": "git+https://github.com/akashpawara/taskify.git"
   },
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "semantic-ui-css": "^2.4.1",
     "vue": "^3.0.0",
